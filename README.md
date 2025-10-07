@@ -4,3 +4,7 @@ This model builded with CNN algorithm and VGG16. And the classification of sever
 And for the installation you can follow the instructions in below
 
 git clone https://github.com/arydotme/knee-osteoarthritis.git
+
+cd knee-osteoarthritis
+
+pip install -r requirements.txt
